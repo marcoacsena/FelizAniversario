@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feliz Aniversario</string>
+    <string name="nome_da_Pessoa">Seu nome é\n
+        Aline Ademir Alice?\n
+    Responda Simmm, Please!</string>
+    <string name="button_sim">Sim</string>
+    <string name="mensagem">Feito com carinho, por Lu e Marco Sena!!!!</string>
+    <string name="button_fechar">Sair</string>
+</resources>
